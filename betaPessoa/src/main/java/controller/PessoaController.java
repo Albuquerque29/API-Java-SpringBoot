@@ -32,6 +32,5 @@ public class PessoaController {
         }
         return ResponseEntity.status(HttpStatus.OK).body(pessoa);
     }
-
 }
 
